@@ -49,7 +49,7 @@ MonoBehaviour:
     type: 3}
   skeletonPrefab: {fileID: 4167736683564350664, guid: 526e90e937316bd4d9d6337256e8a4d6,
     type: 3}
-  playerPrefab: {fileID: 2468348653913117615, guid: 28af4e9d5e5c74e40b0ea4751fd4548a,
+  playerPrefab: {fileID: 5483458955363669672, guid: 28af4e9d5e5c74e40b0ea4751fd4548a,
     type: 3}
   circlePrefab: {fileID: 8108594705899665114, guid: 2ff2cfb014ff4094b8834fc993787946,
     type: 3}
