@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl _1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.458039 0.458039 0.448627
+Ks 0.376471 0.376471 0.376471
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Brad\Downloads\Tombstones_simple_3ds\Tombstones simple 3ds\Tombst0.png

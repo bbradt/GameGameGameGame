@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4309299244561174485
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1117338288650451427}
+  - component: {fileID: 4201466740992845830}
+  m_Layer: 0
+  m_Name: EnvironmentBuilder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1117338288650451427
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4309299244561174485}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1000.2402, y: 339.56818, z: 799.68945}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4201466740992845830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4309299244561174485}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd0a9fb397fc7a3468d6816e868c712b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stonePrefab: {fileID: 8631936602222230102, guid: a4e29024fc480e34ea367780bad32098,
+    type: 3}
+  stagePrefab: {fileID: 1693181477673103610, guid: 19ee6af4d5501fb4fa9dd2fe6ff6505f,
+    type: 3}
+  skeletonPrefab: {fileID: 4167736683564350664, guid: 526e90e937316bd4d9d6337256e8a4d6,
+    type: 3}
+  playerPrefab: {fileID: 2468348653913117615, guid: 28af4e9d5e5c74e40b0ea4751fd4548a,
+    type: 3}
+  circlePrefab: {fileID: 8108594705899665114, guid: 2ff2cfb014ff4094b8834fc993787946,
+    type: 3}
+  stageStart: {x: 1000, y: 340, z: 800}
+  stageScale: {x: 2, y: 2, z: 2}
+  circleStart: {x: 1000, y: 340.06, z: 800}
+  playerStart: {x: 1000, y: 341.7, z: 800}
